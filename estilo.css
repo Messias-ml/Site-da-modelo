@@ -1,0 +1,22 @@
+body { background: #c5c5b2 url('fundo.png');
+ 	font-family: Arial, Helvetica, sans-serif; }
+ 	#conteudo{ border: 0px solid black;
+ 	width: 900px }
+ 	#fundomenu {background-color: #c5c5b2;
+ 		border: 0px solid width: 900px;
+ 		padding: 18px;
+ 		font-size: 25px;}
+ 		a { color: #4b566a; text-decoration: none;
+ 		 }
+ 		#fundotxt {background-color: white;
+ 			border: 1px solid white: 900px;}
+ 	
+ 		.imagens {border-color: #D8D8D8;
+ 			border-width: 15px;
+ 			border-style: inset;}
+ 			.imagens2 {border-color: #F2F5A9;
+ 			border-width: 15px;
+ 			border-style: inset;}
+ 			.imagens3 {border-color: #848484;
+ 			border-width: 15px;
+ 			border-style: inset;}
